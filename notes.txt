@@ -1,0 +1,24 @@
+Create backetball team builder with player addition and deletion
+
+Layout built out of bootstrap
+
+team create button with team name input
+
+player create button in team area with player name, position, and number inputs
+
+delete button for team section
+delete button for players section
+
+display all teams
+
+when clicking on team drops down container with list of players inside
+each player inside of the container needs to have an edit and delete button.
+
+
+
+Brendan - Change Delete button to DANGER button
+          Add Edit button for Team players
+
+Cedric - Layout of the page and css (colors, background, shading, font.......)
+
+Dustin - Create array for teams to be pushed to when created along with players
